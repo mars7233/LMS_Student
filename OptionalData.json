@@ -1,0 +1,65 @@
+{
+    "statusCode": 200,
+    "message": "get notification success",
+    "data": {
+        "count": 7,
+        "array": [
+            {
+                "experimentId": "423",
+                "experimentName": "物理实验A",
+                "teacher": "233",
+                "date": "2015-12-27",
+                "content": "请大家在一周之内上交作业",
+                "type": 1
+            },
+            {
+                "experimentId": "546",
+                "experimentName": "物理实验B",
+                "teacher": "233",
+                "date": "2015-12-27",
+                "content": "100",
+                "type": 2
+            },
+            {
+                "experimentId": "554",
+                "experimentName": "物理实验C",
+                "teacher": "233",
+                "date": "2015-12-27",
+                "content": "做实验时记得带上实验报告册",
+                "type": 1
+            },
+            {
+                "experimentId": "567",
+                "experimentName": "物理实验D",
+                "teacher": "233",
+                "date": "2015-12-27",
+                "content": "90",
+                "type": 2
+            },
+            {
+                "experimentId": "423",
+                "experimentName": "物理实验E",
+                "teacher": "233",
+                "date": "2015-12-27",
+                "content": "请大家在一周之内上交作业",
+                "type": 1
+            },
+            {
+                "experimentId": "546",
+                "experimentName": "物理实验F",
+                "teacher": "233",
+                "date": "2015-12-27",
+                "content": "100",
+                "type": 2
+            },
+            {
+                "experimentId": "554",
+                "experimentName": "物理实验G",
+                "teacher": "233",
+                "date": "2015-12-27",
+                "content": "做实验时记得带上实验报告册",
+                "type": 1
+            }
+        ]
+    }
+}
